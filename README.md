@@ -1,2 +1,3 @@
 # login-page
-this is so far my favorite login page that I've done. minimal and easy to read.
+# a very minimal looking login-page
+i realy like the way it looks,thats it i just wanted to upload it ♥.
